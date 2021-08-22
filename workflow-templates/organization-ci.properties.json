@@ -1,0 +1,13 @@
+{
+    "name": "Borisath Organization Workflow",
+    "description": "Borisath Organization CI workflow template.",
+    "iconName": "example-icon",
+    "categories": [
+        "Go"
+    ],
+    "filePatterns": [
+        "package.json$",
+        "^Dockerfile",
+        ".*\\.md$"
+    ]
+}
